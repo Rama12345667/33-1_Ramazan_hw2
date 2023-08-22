@@ -1,0 +1,10 @@
+Usengazy: - 10
+Adilet: - 10
+Olzhas: - 9
+Ramazan: - 8
+Pavel: - 8
+Darihan: - 7
+Azamat: - 7
+Nazik: - 4
+Bakyt: - 3
+Kauhar: - 1
